@@ -8,5 +8,3 @@ output "final_network" {
     stg = module.azurerm_stg.stg_details
   }
 }
-401/402
-8726 
